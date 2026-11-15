@@ -1,6 +1,4 @@
-<img width="1080" height="2340" alt="Screenshot_20261114_105009_Telecraft" src="https://github.com/user-attachments/assets/8694db91-117a-46db-a105-aadd17fe1011" width="40%" />
-<img width="1080" height="2340" alt="Screenshot_20261114_105015_Telecraft" src="https://github.com/user-attachments/assets/9064d4fc-dd33-48b3-8407-2c30feb14ccc" width="40%" />
-<img width="720" height="1560" alt="Screenshot_20261112_211036_MsgCraft" src="https://github.com/user-attachments/assets/b4ff1e4a-09fd-465a-91f3-a831b9fc361e" width="40%" />
+<img src="https://github.com/user-attachments/assets/8694db91-117a-46db-a105-aadd17fe1011" alt="Screenshot_20261114_105009_Telecraft" width="20%" /> <img src="https://github.com/user-attachments/assets/9064d4fc-dd33-48b3-8407-2c30feb14ccc" alt="Screenshot_20261114_105015_Telecraft" width="20%" /> <img src="https://github.com/user-attachments/assets/b4ff1e4a-09fd-465a-91f3-a831b9fc361e" alt="Screenshot_20261112_211036_MsgCraft" width="20%" />
 
 # Telecraft
 
