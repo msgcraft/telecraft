@@ -1,6 +1,4 @@
-<img width="720" height="1560" alt="Screenshot_20261112_211036_MsgCraft" src="https://github.com/user-attachments/assets/71599488-7559-4e82-868b-1ad59c51ef07" />
-<img width="1080" height="2340" alt="Screenshot_20261114_105009_Telecraft" src="https://github.com/user-attachments/assets/8fb342a5-b5ea-484c-b274-5f705efb9d7f" />
-<img width="1080" height="2340" alt="Screenshot_20261114_105015_Telecraft" src="https://github.com/user-attachments/assets/542bd7ca-3ec0-4046-8273-d95683d41584" />
+<img width="720" height="1560" alt="Screenshot_20261112_211036_MsgCraft" src="https://github.com/user-attachments/assets/71599488-7559-4e82-868b-1ad59c51ef07" /><img width="1080" height="2340" alt="Screenshot_20261114_105009_Telecraft" src="https://github.com/user-attachments/assets/8fb342a5-b5ea-484c-b274-5f705efb9d7f" /><img width="1080" height="2340" alt="Screenshot_20261114_105015_Telecraft" src="https://github.com/user-attachments/assets/542bd7ca-3ec0-4046-8273-d95683d41584" />
 # Telecraft
 
 마인크래프트 자바 에디션 서버의 채팅을 모바일 환경에 어울리게 제작한 앱입니다.
